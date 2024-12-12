@@ -16,7 +16,7 @@ File you need to create would be at: .../data/"mod_id"/awakenings/"fruit_id".jso
 In all of the files you created should be an "requirements" parameter, an array of arrays.
 If requirements parameter (later reffered as reqs) is fufulled the ability or awakening will be given to player.
 Reqs counts as fufulled if at least one of arrays (later reffered as set) in it is fufilled.
-Set is fufilled if all requiremets in it is counted completed (To learn how counted completed are fufilled go to [All Requirements]([https://github.com/WarCart/DF-Progression-Template/edit/main/README.md#all-requirements](https://github.com/WarCart/DF-Progression-Template/blob/main/README.md#all-requirements)))
+Set is fufilled if all requiremets in it is counted completed (To learn how counted completed are fufilled go to [All Requirements](https://github.com/WarCart/DF-Progression-Template/blob/main/README.md#all-requirements))
 
 ## All Requirements
 ### Doriki
