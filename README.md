@@ -18,6 +18,10 @@ If requirements parameter (later reffered as reqs) is fufulled the ability or aw
 Reqs counts as fufulled if at least one of arrays (later reffered as set) in it is fufilled.
 Set is fufilled if all requiremets in it is counted completed (To learn how counted completed are fufilled go to [All Requirements](https://github.com/WarCart/DF-Progression-Template/blob/main/README.md#all-requirements))
 
+## Finishing your datapack
+To load your datapack all you need is to compress your data directory **with the pack.mcmeta** to .zip file and put it to the datapacks foulder in your minecraft world.
+Alternative is to use something like [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader) to compile your files on the go, that will help with testing
+
 ## All Requirements
 ### Doriki
 _ability_progression:doriki_
