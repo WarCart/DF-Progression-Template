@@ -1,0 +1,27 @@
+"requirements": [
+    [
+      {
+        "name": "ability_progression:doriki",
+        "args": {
+			"doriki": 1000
+        }
+      },
+      {
+        "name": "ability_progression:devil_fruit",
+        "args": {
+          "fruitID": "mineminenomi:gomu_gomu_no_mi"
+        }
+      }
+    ],
+	[
+      {
+        "name": "ability_progression:awakening"
+      },
+      {
+        "name": "ability_progression:devil_fruit",
+        "args": {
+          "fruitID": "mineminenomi:gomu_gomu_no_mi"
+        }
+      }
+    ]
+]

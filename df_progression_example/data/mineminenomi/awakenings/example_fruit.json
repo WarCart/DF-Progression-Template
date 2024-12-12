@@ -1,0 +1,33 @@
+"requirements": [
+    [
+      {
+        "name": "ability_progression:doriki",
+        "args": {
+			"doriki": 10000
+        }
+      },
+	  {
+        "name": "ability_progression:race",
+        "args": {
+			"race": "human"
+        }
+      },
+	  {
+        "name": "ability_progression:fighting_style",
+        "args": {
+			"style": "doctor"
+        }
+      }
+    ],
+	[
+      {
+        "name": "ability_progression:haoshoku_born"
+      }
+      {
+        "name": "ability_progression:doriki",
+        "args": {
+			"doriki": 10000
+        }
+      }
+    ]
+]
