@@ -24,9 +24,9 @@ In all of the files you created should be an "requirements" parameter, an array 
 
 If requirements parameter (later reffered as reqs) is fufulled the ability or awakening will be given to player.
 
-Reqs counts as fufulled if at least one of arrays (later reffered as set) in it is fufilled.
+Reqs counts as fufulled if at least one of arrays (later reffered as set) in it is fulfilled.
 
-Set is fufilled if all requiremets in it is counted completed (To learn how counted completed are fufilled go to [All Requirements](https://github.com/WarCart/DF-Progression-Template/blob/main/README.md#all-requirements))
+Set is fulfilled if all requiremets in it is counted completed (To learn how requirement are counted completed go to [All Requirements](https://github.com/WarCart/DF-Progression-Template/blob/main/README.md#all-requirements))
 
 ## Finishing your datapack
 To load your datapack all you need is to compress your data directory **with the pack.mcmeta** to .zip file and put it to the datapacks foulder in your minecraft world.
