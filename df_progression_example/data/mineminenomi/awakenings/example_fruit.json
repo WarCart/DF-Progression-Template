@@ -4,19 +4,19 @@
       {
         "name": "ability_progression:doriki",
         "args": {
-			"doriki": 10000
+		"doriki": 10000
         }
       },
 	  {
         "name": "ability_progression:race",
         "args": {
-			"race": "human"
+		"race": "mineminenomi:human"
         }
       },
 	  {
         "name": "ability_progression:fighting_style",
         "args": {
-			"style": "doctor"
+		"style": "mineminenomi:doctor"
         }
       }
     ],
@@ -27,7 +27,7 @@
       {
         "name": "ability_progression:doriki",
         "args": {
-			"doriki": 10000
+		"doriki": 10000
         }
       }
     ]
